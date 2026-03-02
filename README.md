@@ -27,6 +27,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 ## Join the community
 - Follow us on [Twitter](https://twitter.com/e2b)
+- [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform providing managed Chromium instances for AI agents — supports Puppeteer, Playwright, and Claude/GPT computer use APIs with enterprise-grade stealth.
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 - Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
